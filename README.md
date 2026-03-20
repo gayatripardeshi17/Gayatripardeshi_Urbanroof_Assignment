@@ -1,71 +1,70 @@
-AI DDR Report Generator
-Project Overview
+#  AI DDR Report Generator
 
-This project is an AI-based system that reads inspection and thermal reports (PDF files) and generates a structured Detailed Diagnostic Report (DDR).
+##  Project Overview
+This project is an AI-based system that reads inspection and thermal reports (PDF files) and generates a structured **Detailed Diagnostic Report (DDR)**.
 
-The goal is to convert raw site inspection data into a clear, client-friendly report.
+The goal is to convert raw site inspection data into a **clear, client-friendly report**.
 
-== How It Works
+---
 
-PDF Extraction
+## ⚙️ How It Works
 
-Extracts text and images from inspection and thermal reports using PyMuPDF
+###  1. PDF Extraction
+- Extracts text and images from inspection and thermal reports  
+- Uses **PyMuPDF** for efficient data extraction  
 
-Data Processing
+###  2. Data Processing
+- Combines inspection and thermal data  
+- Removes duplicate and unnecessary content  
+- Cleans raw extracted data  
 
-Combines both reports
+###  3. Report Generation
+- Converts processed data into a structured DDR format  
+- Generates a **client-friendly report** with:
 
-Removes duplicate or unnecessary content
+  - Property Issue Summary  
+  - Area-wise Observations  
+  - Probable Root Cause  
+  - Severity Assessment  
+  - Recommended Actions  
 
-Report Generation
+---
 
-Converts processed data into a structured DDR format
-
-Includes:
-
-Property Issue Summary
-
-Area-wise Observations
-
-Root Cause
-
-Severity
-
-Recommendations
-
---  Project Structure
+##  Project Structure
 AI_Report_generator/
 │── main.py
 │── extractor.py
 │── processor.py
 │── report_generator.py
 │── input/
-│     ├── Sample Report.pdf
-│     ├── Thermal Images.pdf
+│ ├── Sample Report.pdf
+│ ├── Thermal Images.pdf
 │── output/
-│     ├── final_report.txt
-│     ├── images/
+│ ├── final_report.txt
+│ ├── images/
+│── README.md
 
-How to Run
 
-Install dependencies:
 
+---
+
+##  How to Run
+
+### 1. Install dependencies
+```bash
 pip install PyMuPDF python-dotenv google-genai
-
-Run the project:
-
+2. Run the project
 python main.py
-
-Output will be generated in:
-
+3. Output location
 output/final_report.txt
--- Output
 
-The system generates a structured DDR report with:
+Output
+
+The system generates a structured DDR report including:
 
 Property summary
 
-Area-wise issues
+Area-wise observations
 
 Root cause analysis
 
@@ -73,26 +72,27 @@ Severity level
 
 Recommended actions
 
--- Limitations
+## Limitations
 
-API quota issues may affect AI generation
+API quota limitations may affect AI-based generation
 
-Image mapping to specific sections is basic
+Image-to-section mapping is basic
 
-Output depends on input PDF quality
+Output quality depends on input PDF structure
 
---Future Improvements
+ ## Future Improvements
 
-Convert output into professional PDF format
+Generate professional PDF reports with images
 
-Better mapping of images to observations
+Improve image-to-observation mapping
 
-Use advanced AI models for more accurate analysis
+Use advanced AI models for better accuracy
 
-🎥 Loom Video -
+ ## Loom Video
 
+ [Paste your Loom video link here]
 
+## Author
 
- Author
 Gayatri Pardeshi
 AI Generalist Internship Assignment
