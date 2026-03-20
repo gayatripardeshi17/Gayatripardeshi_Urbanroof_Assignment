@@ -1,0 +1,87 @@
+DETAILED DIAGNOSTIC REPORT (DDR)
+1. Property Issue Summary
+
+The property shows signs of moisture intrusion, structural cracks, and plumbing-related leakage issues. Dampness and corrosion are observed in multiple areas, indicating both waterproofing and maintenance concerns.
+
+2. Area-wise Observations
+
+Flat No. 103
+
+Hall:
+
+Dampness observed at skirting level
+
+Thermal hotspot indicating moisture presence
+
+Master Bedroom:
+
+Signs of hollowness in wall
+
+Plumbing-related leakage detected
+
+Kitchen & Bathroom:
+
+Leakage due to concealed plumbing
+
+Gaps around Nahani trap joints
+
+External Wall:
+
+Visible cracks on building surface
+
+Bird droppings affecting wall condition
+
+Common Bathroom:
+
+Water leakage at outlet points
+
+High moisture readings in thermal images
+
+Windows & Metal Components:
+
+Corrosion observed on MS window grills
+
+Deterioration of metal surfaces
+
+3. Probable Root Cause
+
+Poor waterproofing and sealing
+
+Leakage from concealed plumbing systems
+
+Structural stress leading to cracks
+
+Lack of maintenance of external surfaces
+
+4. Severity Assessment
+
+Severity Level: Medium to High
+
+Reason:
+Multiple affected areas with moisture and leakage indicate potential long-term structural damage if not addressed promptly.
+
+5. Recommended Actions
+
+Apply waterproofing treatment on affected walls
+
+Repair cracks using appropriate structural methods
+
+Fix plumbing leakages and seal joints
+
+Replace or treat corroded metal components
+
+Conduct periodic inspection to prevent recurrence
+
+6. Additional Notes
+
+Thermal images confirm presence of moisture hotspots
+
+Visual inspection supports structural and plumbing issues
+
+7. Missing or Unclear Information
+
+Exact age of structure → Not Available
+
+Previous repair history → Not Available
+
+Detailed plumbing layout → Not Available
